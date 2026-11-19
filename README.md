@@ -158,6 +158,6 @@ The backend exposes city-scoped endpoints for the main analysis workflow, includ
 
 Each endpoint accepts a city identifier so the same analysis pipeline can serve all supported cities.
 
-Interactive API documentation is available at the deployed FastAPI `/docs` endpoint.
+Interactive API documentation is available at the FastAPI `/docs` endpoint.
 
 ---
